@@ -3,7 +3,7 @@
 #### Problem Statement:
     
     Wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor,
-    such as a crystalline silicon (c-Si), used for fabricationof integrated circuits and in photovoltaics,
+    such as a crystalline silicon (c-Si), used for fabricatio nof integrated circuits and in photovoltaics,
     to manufacture solar cells.
     
     The inputs of various sensors for different wafers have been provided. In 
@@ -14,7 +14,7 @@
     There are two classes: +1 and -1.
     
     +1: Means that the wafer is in a working condition and it doesn't need to be replaced.
-    -1: Means that the wafer is faulty and it needa to be replaced.
+    -1: Means that the wafer is faulty and it needs to be replaced.
     
 #### Data Description
     
