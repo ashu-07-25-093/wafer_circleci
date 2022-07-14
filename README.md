@@ -3,7 +3,7 @@
 #### Problem Statement:
     
     Wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor,
-    such as a crystalline silicon (c-Si), used for fabricatio nof integrated circuits and in photovoltaics,
+    such as a crystalline silicon (c-Si), used for fabrication of integrated circuits and in photovoltaics,
     to manufacture solar cells.
     
     The inputs of various sensors for different wafers have been provided. In 
