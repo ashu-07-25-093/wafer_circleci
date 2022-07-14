@@ -6,10 +6,13 @@
     such as a crystalline silicon (c-Si), used for fabricationof integrated circuits and in photovoltaics,
     to manufacture solar cells.
     
-    The inputs of various sensors for different wafers have been provided.
-    The goal is to build a machine learning model which predicts whether a wafer needs to be replaced or not
-    (i.e whether it is working or not) nased on the inputs from various sensors.
+    The inputs of various sensors for different wafers have been provided. In 
+    electronics, a wafer (also called a slice or substrate) is a thin slice of semi
+    conductor used for the fabrication of integrated circuits. The goal is to build a 
+    machine learning model which predicts whether a wafer needs to be replaced or not
+    (i.e., whether it is working or not) based on the inputs from various sensors. 
     There are two classes: +1 and -1.
+    
     +1: Means that the wafer is in a working condition and it doesn't need to be replaced.
     -1: Means that the wafer is faulty and it needa to be replaced.
     
@@ -19,6 +22,11 @@
     Data will contain Wafer names and 590 columns of different sensor values for each wafer.
     The last column will have the "Good/Bad" value for each wafer.
     
+    Good/Bad" column will have two unique values +1 and -1.
+    
+    "+1" represents Good wafer.
+    "-1" represents Bad Wafer.
+
     Apart from training files, we laso require a "schema" file from the client, which contain all the
     relevant information about the training files such as:
     
