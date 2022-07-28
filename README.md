@@ -1,4 +1,5 @@
 ## Wafer Fault Detection
+![alt text](https://drive.google.com/file/d/1x6ZJtpDnyu6_zmd_PVztu7R6I35yBdDc/view?usp=sharing)
 
 #### Problem Statement:
     
