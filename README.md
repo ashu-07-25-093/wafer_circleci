@@ -1,4 +1,5 @@
 ## Wafer Fault Detection
+![Screenshot](train_prediction.png)
 
 #### Problem Statement:
     
